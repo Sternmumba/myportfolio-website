@@ -1,0 +1,3 @@
+project Name: Resume Website 
+Author Name: Stern mumba
+Author Website: https://sternmumba.com
